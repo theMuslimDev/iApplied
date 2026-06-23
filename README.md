@@ -1,3 +1,7 @@
+> **⚠️ Project Status: Archived & Unmaintained**
+> 
+> Please note that I am no longer actively developing or maintaining **iApplied**. However, I am keeping this repository public as an educational resource! If you are looking to learn **Swift** or want to see a practical, real-world implementation of **PointFree's The Composable Architecture (TCA)**, this codebase is a great place to explore. Feel free to fork it, poke around, and use it for your own learning journey.
+
 # iApplied
 
 A lightweight iOS app for tracking job applications, managing CV details, and scheduling timely follow-ups — all while keeping your data 100% offline and private.
